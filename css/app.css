@@ -112,6 +112,9 @@ th.large-5 {
 th.large-5.first {
   padding-left: 16px; }
 
+th.large-5.last {
+  padding-right: 16px; }
+
 th.large-6 {
   width: 284px;
   padding-left: 8px;
